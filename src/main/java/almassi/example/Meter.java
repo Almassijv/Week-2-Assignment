@@ -1,3 +1,9 @@
+/**
+ * Almass Koraishi
+ * CIS175 Week 2 Assignment
+ * Sep 14, 2022
+ */
+
 package almassi.example;
 
 public class Meter{

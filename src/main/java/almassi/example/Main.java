@@ -1,5 +1,11 @@
 package almassi.example;
 
+/**
+ * Almass Koraishi
+ * CIS175 Week 2 Assignment
+ * Sep 14, 2022
+ */
+
 import java.util.Scanner;
 
 public class Main {
