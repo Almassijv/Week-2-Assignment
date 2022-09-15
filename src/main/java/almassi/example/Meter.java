@@ -60,5 +60,7 @@ public class Meter{
     public void setUnit_cost(int unit_cost) {
         this.unit_cost = unit_cost;
     }
+
+
 }
 
